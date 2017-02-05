@@ -83,6 +83,7 @@ ul#gallery {
 
 #gallery li {
   float: left;
+  display: block;
   margin: 60px;
 }
 
