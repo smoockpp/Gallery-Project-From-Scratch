@@ -21,6 +21,7 @@ img {
   width: 100%;
   padding: 0;
   margin: 0;
+  display: inline-block;
 }
 
 /* Header style */
@@ -242,7 +243,7 @@ span {
   }
 
   ul#gallery li {
-    margin: 29px;
+    margin: 25px;
   }
 
   #overlay img {
