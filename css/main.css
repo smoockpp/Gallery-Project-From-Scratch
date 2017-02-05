@@ -209,7 +209,7 @@ span {
 }
 
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
   #search {
     width: 400px;
   }
