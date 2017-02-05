@@ -89,6 +89,7 @@ ul#gallery {
 }
 
 ul#gallery li a {
+  display: block;
   padding: 0;
   margin: 0;
 
